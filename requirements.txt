@@ -1,0 +1,6 @@
+Flask
+Gunicorn
+langchain
+chromadb
+unstructured
+openai
